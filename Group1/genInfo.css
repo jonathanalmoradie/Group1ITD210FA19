@@ -4,10 +4,12 @@
 
 
 
-/* Header */
-
-
-
+/* Banner */
+div#banner {
+    display: block;
+    background-color: rgb(63,72,204);
+    clear: left;
+}
 
 /* Nav */
 
@@ -22,3 +24,10 @@
 
 
 /* footer */
+footer {
+    background-color: rgb(63,72,204);
+    text-align: center;
+    color: black;
+    font-family: Helvetica, sans-serif;
+    font-size: 1em;
+}
